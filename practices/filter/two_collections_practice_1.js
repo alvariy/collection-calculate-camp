@@ -2,7 +2,7 @@
 
 function choose_common_elements(collection_a, collection_b) {
 
-  return collection_a.filter( (collection,i) => collection === collection_b[i]);
+  return collection_a.filter(n => collection_b.includes(n));
   
 
   //write code here
