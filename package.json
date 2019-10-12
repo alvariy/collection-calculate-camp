@@ -5,6 +5,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jasmine-node": "^1.16.2"
+    "jasmine-node": "^1.16.2",
+    "jest": "^24.9.0"
   }
 }
